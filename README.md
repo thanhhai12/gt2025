@@ -1,6 +1,6 @@
 # USTH Graph Theory 2024-2025
 
-Push your project here.
+Here my project, please check!!!
 
 ===
 
@@ -10,4 +10,4 @@ Student ID: 22BI13148
 
 ===
 
-Good luck!!!
+Thank you, Lecturer
